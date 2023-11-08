@@ -1,7 +1,7 @@
-👋 Hi, I’m @Daniele073
- 👀 I’m interested in 3d printing
- 🌱 I’m currently learning how to compile marlin fw
-- 💞️ I’m looking to collaborate on ...
+  👋 Hi, I’m @Daniele073
+ -👀 I’m interested in 3d printing
+ -🌱 I’m currently learning how to compile marlin fw
+
 - 📫 How to reach me ...
 
 <!---
